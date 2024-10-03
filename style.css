@@ -28,15 +28,3 @@ body{
 h3,p{
     max-width: 300px;
 }
-
-@media (min-width: 600px) {
-    .l{
-        flex-direction: row;
-    }
-}
-
-@media (min-width: 900px) {
-    .l{
-        flex-direction: row;
-    }
-}
